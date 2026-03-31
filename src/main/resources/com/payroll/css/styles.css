@@ -48,7 +48,7 @@
    ═══════════════════════════════════════════════════════════════ */
 
 .app-header {
-    -fx-background-color: #242424;
+    -fx-background-color: #131313;
     -fx-min-height: 54px;
     -fx-pref-height: 54px;
     -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.30), 8, 0, 0, 2);
