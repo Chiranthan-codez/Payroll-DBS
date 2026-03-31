@@ -37,7 +37,7 @@
 }
 
 .error-label {
-    -fx-text-fill: #dc2626;
+    -fx-text-fill: #ca0000;
     -fx-font-size: 12px;
     -fx-font-weight: bold;
     -fx-wrap-text: true;
