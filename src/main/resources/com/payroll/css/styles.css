@@ -15,11 +15,11 @@
    ═══════════════════════════════════════════════════════════════ */
 
 .login-bg {
-    -fx-background-color: linear-gradient(to bottom right, #1a2332, #2d3f55);
+    -fx-background-color: linear-gradient(to bottom right, #192437, #2d3f55);
 }
 
 .login-card {
-    -fx-background-color: rgb(17, 27, 38);
+    -fx-background-color: rgb(139, 192, 249);
     -fx-background-radius: 16;
     -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.40), 30, 0, 0, 8);
 }
