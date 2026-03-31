@@ -19,7 +19,7 @@
 }
 
 .login-card {
-    -fx-background-color: rgb(171, 210, 251);
+    -fx-background-color: rgb(17, 27, 38);
     -fx-background-radius: 16;
     -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.40), 30, 0, 0, 8);
 }
@@ -292,9 +292,9 @@
 }
 
 .card-blue   { -fx-background-color: #dbeafe; }
-.card-green  { -fx-background-color: #dcfce7; }
-.card-red    { -fx-background-color: #fee2e2; }
-.card-amber  { -fx-background-color: #fef9c3; }
+.card-green  { -fx-background-color: #dbeafe; }
+.card-red    { -fx-background-color: #dbeafe; }
+.card-amber  { -fx-background-color: #dbeafe; }
 
 .stat-icon  { -fx-font-size: 28px; }
 
