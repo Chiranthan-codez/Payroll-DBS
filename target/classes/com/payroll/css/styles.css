@@ -62,7 +62,7 @@
 }
 
 .tagline {
-    -fx-text-fill: #c3d5ed;
+    -fx-text-fill: #dde6f3;
     -fx-font-size: 13px;
 }
 
@@ -108,7 +108,7 @@
 }
 
 .main-tabs .tab:hover .tab-label {
-    -fx-text-fill: #ff6b6b;
+    -fx-text-fill: #ff5757;
 }
 
 .main-tabs .tab:disabled .tab-label {
